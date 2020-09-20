@@ -26,7 +26,6 @@
         		<div class=header>
         			<ul class="nav nav-pills pull-right">
         				<li class=active>
-							<!--href=# links to top of current page-->        					
         					<a id=play-top href=#>
         						<span class="glyphicon glyphicon-play">
         						</span> Play
